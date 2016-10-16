@@ -1,7 +1,7 @@
 {
   "SaveName": "X-Wing Automatic List Spawner (now with auto layout dials!)",
   "GameMode": "XW squad assembly",
-  "Date": "10/12/2016 8:01:15 PM",
+  "Date": "10/15/2016 8:07:57 PM",
   "Table": "Table_Custom",
   "TableURL": "http://i.imgur.com/I73OWYX.jpg",
   "Sky": "Sky_Cathedral",
@@ -77,12 +77,12 @@
           "posX": -51.6596222,
           "posY": 3.29311228,
           "posZ": -11.7324,
-          "rotX": 1.52769644E-07,
+          "rotX": 1.52769616E-07,
           "rotY": 90.0006561,
-          "rotZ": -5.21319841E-08,
-          "scaleX": 15.1939859,
+          "rotZ": -5.213199E-08,
+          "scaleX": 15.1940174,
           "scaleY": 11.8970528,
-          "scaleZ": 6.40567875
+          "scaleZ": 6.40569448
         }
       },
       {
@@ -133,9 +133,9 @@
           "posX": 3.2946748E-06,
           "posY": 3.29311228,
           "posZ": 34.4527626,
-          "rotX": 5.266577E-08,
+          "rotX": 5.266578E-08,
           "rotY": 179.800049,
-          "rotZ": 1.52585159E-07,
+          "rotZ": 1.52585116E-07,
           "scaleX": 15.3268814,
           "scaleY": 11.8970528,
           "scaleZ": 6.35014629
@@ -161,12 +161,12 @@
           "posX": -51.6596222,
           "posY": 3.29311228,
           "posZ": 11.7324,
-          "rotX": 1.52769644E-07,
+          "rotX": 1.52769616E-07,
           "rotY": 90.0006561,
-          "rotZ": -5.21319841E-08,
-          "scaleX": 15.1939859,
+          "rotZ": -5.213199E-08,
+          "scaleX": 15.1940174,
           "scaleY": 11.8970528,
-          "scaleZ": 6.40567875
+          "scaleZ": 6.40569448
         }
       }
     ]
@@ -3955,10 +3955,10 @@
       "Transform": {
         "posX": -31.25,
         "posY": 1.11750007,
-        "posZ": 6.249999,
-        "rotX": 6.210743E-08,
+        "posZ": 6.24999857,
+        "rotX": -1.02366744E-06,
         "rotY": 359.984863,
-        "rotZ": -4.0877967E-07,
+        "rotZ": 7.29145E-08,
         "scaleX": 2.25,
         "scaleY": 2.25,
         "scaleZ": 2.25
@@ -3986,9 +3986,9 @@
         "posX": 33.000164,
         "posY": 1.1525,
         "posZ": 18.99984,
-        "rotX": 9.5259665E-08,
-        "rotY": 0.0284922346,
-        "rotZ": -4.34613639E-07,
+        "rotX": -1.15848E-06,
+        "rotY": 0.0285401121,
+        "rotZ": 7.27853E-07,
         "scaleX": 2.75,
         "scaleY": 2.75,
         "scaleZ": 2.75
@@ -4016,9 +4016,9 @@
         "posX": -31.25,
         "posY": 1.1525,
         "posZ": 18.7500248,
-        "rotX": 1.01426838E-06,
-        "rotY": 0.001186964,
-        "rotZ": -6.671588E-07,
+        "rotX": 1.01909836E-06,
+        "rotY": 0.001186967,
+        "rotZ": -6.049955E-07,
         "scaleX": 2.75,
         "scaleY": 2.75,
         "scaleZ": 2.75
@@ -4044,11 +4044,11 @@
       "Name": "Notecard",
       "Transform": {
         "posX": 33.0717354,
-        "posY": 1.14900017,
+        "posY": 1.149,
         "posZ": 4.24302626,
-        "rotX": -5.85797437E-08,
+        "rotX": 2.18140368E-08,
         "rotY": 359.9932,
-        "rotZ": -2.51928668E-07,
+        "rotZ": -1.27267845E-06,
         "scaleX": 2.69999862,
         "scaleY": 2.69999862,
         "scaleZ": 2.69999862
@@ -4074,11 +4074,11 @@
       "Name": "Notecard",
       "Transform": {
         "posX": 0.3581593,
-        "posY": 1.21899986,
+        "posY": 1.21899974,
         "posZ": 14.278532,
-        "rotX": -4.97646369E-08,
-        "rotY": 0.004474106,
-        "rotZ": 3.01606526E-08,
+        "rotX": -1.11705887E-07,
+        "rotY": 0.004474113,
+        "rotZ": 2.25466312E-08,
         "scaleX": 3.69999671,
         "scaleY": 3.69999671,
         "scaleZ": 3.69999671
@@ -4104,11 +4104,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -6.21706533,
-        "posY": 0.848979354,
+        "posY": 0.848979831,
         "posZ": -8.167667,
-        "rotX": 8.96458E-06,
-        "rotY": 180.000961,
-        "rotZ": 5.114378E-06,
+        "rotX": 2.98824239E-06,
+        "rotY": 180.000992,
+        "rotZ": -4.11376232E-06,
         "scaleX": 0.6000003,
         "scaleY": 0.6000003,
         "scaleZ": 0.6000003
@@ -4118,7 +4118,7 @@
       "ColorDiffuse": {
         "r": 0.9490196,
         "g": 0.0156862754,
-        "b": 0.1254869
+        "b": 0.125486791
       },
       "Locked": false,
       "Grid": true,
@@ -14434,6 +14434,12 @@
         {
           "Name": "Custom_Model",
           "Transform": {
+            "posX": 0.0,
+            "posY": 0.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
             "scaleX": 0.625,
             "scaleY": 0.625,
             "scaleZ": 0.625
@@ -14473,6 +14479,12 @@
         {
           "Name": "Custom_Model",
           "Transform": {
+            "posX": 0.0,
+            "posY": 0.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
             "scaleX": 0.625,
             "scaleY": 0.625,
             "scaleZ": 0.625
@@ -14512,6 +14524,12 @@
         {
           "Name": "Custom_Model",
           "Transform": {
+            "posX": 0.0,
+            "posY": 0.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
             "scaleX": 0.625,
             "scaleY": 0.625,
             "scaleZ": 0.625
@@ -14551,6 +14569,12 @@
         {
           "Name": "Custom_Model",
           "Transform": {
+            "posX": 0.0,
+            "posY": 0.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
             "scaleX": 0.625,
             "scaleY": 0.625,
             "scaleZ": 0.625
@@ -14590,6 +14614,12 @@
         {
           "Name": "Custom_Model",
           "Transform": {
+            "posX": 0.0,
+            "posY": 0.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
             "scaleX": 0.625,
             "scaleY": 0.625,
             "scaleZ": 0.625
@@ -14629,6 +14659,12 @@
         {
           "Name": "Custom_Model",
           "Transform": {
+            "posX": 0.0,
+            "posY": 0.0,
+            "posZ": 0.0,
+            "rotX": 0.0,
+            "rotY": 0.0,
+            "rotZ": 0.0,
             "scaleX": 0.625,
             "scaleY": 0.625,
             "scaleZ": 0.625
@@ -14674,9 +14710,9 @@
         "posX": -8.611714,
         "posY": 0.7749658,
         "posZ": -8.263242,
-        "rotX": -7.257085E-06,
-        "rotY": 179.997955,
-        "rotZ": -5.118012E-07,
+        "rotX": 1.28066631E-06,
+        "rotY": 179.99794,
+        "rotZ": 3.251447E-07,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -14686,7 +14722,7 @@
       "ColorDiffuse": {
         "r": 0.9490196,
         "g": 0.0156862754,
-        "b": 0.1254869
+        "b": 0.125486791
       },
       "Locked": false,
       "Grid": true,
@@ -25106,6 +25142,48 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "GUID": "254781"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -8.290913,
+            "posY": 3.06234932,
+            "posZ": -8.487969,
+            "rotX": 1.84603882,
+            "rotY": 180.311935,
+            "rotZ": 5.85679531,
+            "scaleX": 0.6428425,
+            "scaleY": 1.0,
+            "scaleZ": 0.6428425
+          },
+          "Nickname": "Concord Dawn Protector",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 26905,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "269": {
+              "FaceURL": "http://i.imgur.com/MTabO2j.jpg",
+              "BackURL": "http://i.imgur.com/lWxnjTe.png",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": true
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "f289ac"
         }
       ],
       "GUID": "764217"
@@ -25113,12 +25191,12 @@
     {
       "Name": "Bag",
       "Transform": {
-        "posX": -11.217062,
-        "posY": 0.8536052,
-        "posZ": -8.167712,
-        "rotX": -8.61157048E-11,
-        "rotY": 180.000946,
-        "rotZ": 1.05154213E-05,
+        "posX": -11.2170458,
+        "posY": 0.8536053,
+        "posZ": -8.167725,
+        "rotX": -8.537769E-06,
+        "rotY": 180.000519,
+        "rotZ": 7.21368224E-06,
         "scaleX": 0.5750004,
         "scaleY": 0.5750004,
         "scaleZ": 0.5750004
@@ -25128,7 +25206,7 @@
       "ColorDiffuse": {
         "r": 0.9490196,
         "g": 0.0156862754,
-        "b": 0.1254869
+        "b": 0.125486791
       },
       "Locked": false,
       "Grid": true,
@@ -33796,12 +33874,12 @@
         {
           "Name": "Card",
           "Transform": {
-            "posX": -12.1673861,
-            "posY": 2.22074747,
-            "posZ": -7.92576838,
-            "rotX": 359.964355,
-            "rotY": 180.024673,
-            "rotZ": 359.75058,
+            "posX": -10.9656219,
+            "posY": 2.48493147,
+            "posZ": -8.25066,
+            "rotX": 0.303593963,
+            "rotY": 179.9371,
+            "rotZ": 326.959473,
             "scaleX": 1.0,
             "scaleY": 1.0,
             "scaleZ": 1.0
@@ -33834,6 +33912,258 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "GUID": "db0fcd"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -11.12634,
+            "posY": 2.16483927,
+            "posZ": -6.90279055,
+            "rotX": 357.434875,
+            "rotY": 180.033035,
+            "rotZ": 0.369699717,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Zealous Recruit",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 27004,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "270": {
+              "FaceURL": "http://i.imgur.com/ojeTCH4.png",
+              "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "3882ec"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -11.7428017,
+            "posY": 2.167594,
+            "posZ": -7.24704838,
+            "rotX": 357.963257,
+            "rotY": 180.0428,
+            "rotZ": 357.6394,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Concord Dawn Veteran",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 27005,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "270": {
+              "FaceURL": "http://i.imgur.com/ojeTCH4.png",
+              "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "792a51"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -11.4544411,
+            "posY": 2.1918602,
+            "posZ": -7.59205055,
+            "rotX": 357.771179,
+            "rotY": 180.089081,
+            "rotZ": 358.124878,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Concord Dawn Ace",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 27003,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "270": {
+              "FaceURL": "http://i.imgur.com/ojeTCH4.png",
+              "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "bb14e5"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -11.4727068,
+            "posY": 2.18012333,
+            "posZ": -7.36271667,
+            "rotX": 357.524384,
+            "rotY": 180.074631,
+            "rotZ": 358.400665,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Kad Solus",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 27007,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "270": {
+              "FaceURL": "http://i.imgur.com/ojeTCH4.png",
+              "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "ba80e2"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -12.1995478,
+            "posY": 2.15762448,
+            "posZ": -7.48844767,
+            "rotX": 358.967682,
+            "rotY": 180.112564,
+            "rotZ": 356.9651,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Old Teroch",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 27006,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "270": {
+              "FaceURL": "http://i.imgur.com/ojeTCH4.png",
+              "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "765444"
+        },
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -11.6022043,
+            "posY": 2.19541836,
+            "posZ": -7.906327,
+            "rotX": 358.942017,
+            "rotY": 180.06572,
+            "rotZ": 356.776154,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "Fenn Rau",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 25200,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "252": {
+              "FaceURL": "http://i.imgur.com/z0tv7EK.jpg",
+              "BackURL": "http://i.imgur.com/9nXlGbZ.jpg",
+              "NumWidth": 10,
+              "NumHeight": 7,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "0400a2"
         }
       ],
       "GUID": "ecff79"
@@ -33842,11 +34172,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -8.743176,
-        "posY": 0.8536053,
+        "posY": 0.8536054,
         "posZ": -5.668991,
-        "rotX": 1.33824618E-09,
+        "rotX": 1.8305174E-09,
         "rotY": 179.983414,
-        "rotZ": 9.243099E-06,
+        "rotZ": 1.2643186E-05,
         "scaleX": 0.5750004,
         "scaleY": 0.5750004,
         "scaleZ": 0.5750004
@@ -33856,7 +34186,7 @@
       "ColorDiffuse": {
         "r": 0.9490196,
         "g": 0.0156862754,
-        "b": 0.1254869
+        "b": 0.125486791
       },
       "Locked": false,
       "Grid": true,
@@ -71107,12 +71437,12 @@
     {
       "Name": "Notecard",
       "Transform": {
-        "posX": 34.8217773,
-        "posY": 1.11871731,
-        "posZ": -27.6011562,
-        "rotX": -6.045832E-08,
-        "rotY": 0.000449370156,
-        "rotZ": -4.703603E-08,
+        "posX": 33.5800056,
+        "posY": 1.11750531,
+        "posZ": -18.05568,
+        "rotX": -0.00016885699,
+        "rotY": 0.00158128946,
+        "rotZ": 1.31885063E-05,
         "scaleX": 2.25,
         "scaleY": 2.25,
         "scaleZ": 2.25
@@ -71137,12 +71467,12 @@
     {
       "Name": "Bag",
       "Transform": {
-        "posX": 46.0717773,
-        "posY": 0.6559113,
-        "posZ": -28.8511543,
-        "rotX": 8.537712E-07,
-        "rotY": 180.000778,
-        "rotZ": 3.46851238E-07,
+        "posX": 39.30749,
+        "posY": 1.00598228,
+        "posZ": -13.6105566,
+        "rotX": 347.33786,
+        "rotY": 179.975525,
+        "rotZ": 0.0336978249,
         "scaleX": 1.64999962,
         "scaleY": 1.64999962,
         "scaleZ": 1.64999962
@@ -71152,7 +71482,7 @@
       "ColorDiffuse": {
         "r": 0.9490196,
         "g": 0.0156862754,
-        "b": 0.125486866
+        "b": 0.125486761
       },
       "Locked": false,
       "Grid": true,
@@ -102594,397 +102924,14 @@
       "GUID": "6a4ad0"
     },
     {
-      "Name": "Deck",
-      "Transform": {
-        "posX": 31.4188843,
-        "posY": 1.34757006,
-        "posZ": -18.2812233,
-        "rotX": -8.45424438E-05,
-        "rotY": 179.998062,
-        "rotZ": -0.000122191181,
-        "scaleX": 1.0,
-        "scaleY": 1.0,
-        "scaleZ": 1.0
-      },
-      "Nickname": "",
-      "Description": "",
-      "ColorDiffuse": {
-        "r": 0.713235259,
-        "g": 0.713235259,
-        "b": 0.713235259
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "SidewaysCard": false,
-      "DeckIDs": [
-        25200,
-        27004,
-        27005,
-        27007,
-        27003,
-        27006
-      ],
-      "CustomDeck": {
-        "252": {
-          "FaceURL": "http://i.imgur.com/z0tv7EK.jpg",
-          "BackURL": "http://i.imgur.com/9nXlGbZ.jpg",
-          "NumWidth": 10,
-          "NumHeight": 7,
-          "BackIsHidden": false,
-          "UniqueBack": false
-        },
-        "270": {
-          "FaceURL": "http://i.imgur.com/ojeTCH4.png",
-          "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
-          "NumWidth": 10,
-          "NumHeight": 7,
-          "BackIsHidden": false,
-          "UniqueBack": false
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "ContainedObjects": [
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 14.0462275,
-            "posY": 1.22793448,
-            "posZ": -4.427298,
-            "rotX": 0.00245211017,
-            "rotY": 180.0091,
-            "rotZ": -0.000165250181,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "CardID": 25200,
-          "SidewaysCard": false,
-          "CustomDeck": {
-            "252": {
-              "FaceURL": "http://i.imgur.com/z0tv7EK.jpg",
-              "BackURL": "http://i.imgur.com/9nXlGbZ.jpg",
-              "NumWidth": 10,
-              "NumHeight": 7,
-              "BackIsHidden": false,
-              "UniqueBack": false
-            }
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "GUID": "0400a2"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 13.1040392,
-            "posY": 1.37415862,
-            "posZ": -4.93297243,
-            "rotX": 0.00246902253,
-            "rotY": 179.9974,
-            "rotZ": -0.000214232379,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "CardID": 27004,
-          "SidewaysCard": false,
-          "CustomDeck": {
-            "270": {
-              "FaceURL": "http://i.imgur.com/ojeTCH4.png",
-              "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
-              "NumWidth": 10,
-              "NumHeight": 7,
-              "BackIsHidden": false,
-              "UniqueBack": false
-            }
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "GUID": "3882ec"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 13.7398424,
-            "posY": 1.17793453,
-            "posZ": -5.11198664,
-            "rotX": 0.00245211017,
-            "rotY": 180.009155,
-            "rotZ": -0.000165250181,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "CardID": 27005,
-          "SidewaysCard": false,
-          "CustomDeck": {
-            "270": {
-              "FaceURL": "http://i.imgur.com/ojeTCH4.png",
-              "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
-              "NumWidth": 10,
-              "NumHeight": 7,
-              "BackIsHidden": false,
-              "UniqueBack": false
-            }
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "GUID": "792a51"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 13.256609,
-            "posY": 1.03168321,
-            "posZ": -2.79500961,
-            "rotX": -0.0013592412,
-            "rotY": 180.009171,
-            "rotZ": -0.0002893453,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "CardID": 27007,
-          "SidewaysCard": false,
-          "CustomDeck": {
-            "270": {
-              "FaceURL": "http://i.imgur.com/ojeTCH4.png",
-              "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
-              "NumWidth": 10,
-              "NumHeight": 7,
-              "BackIsHidden": false,
-              "UniqueBack": false
-            }
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "GUID": "ba80e2"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 12.2698383,
-            "posY": 1.03166878,
-            "posZ": -7.393818,
-            "rotX": -0.002270276,
-            "rotY": 180.0055,
-            "rotZ": 0.00175750512,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "CardID": 27003,
-          "SidewaysCard": false,
-          "CustomDeck": {
-            "270": {
-              "FaceURL": "http://i.imgur.com/ojeTCH4.png",
-              "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
-              "NumWidth": 10,
-              "NumHeight": 7,
-              "BackIsHidden": false,
-              "UniqueBack": false
-            }
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "GUID": "bb14e5"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
-            "posX": 18.2582588,
-            "posY": 1.18603492,
-            "posZ": -17.8645649,
-            "rotX": 0.0437162034,
-            "rotY": 180.000229,
-            "rotZ": 0.06455334,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "",
-          "Description": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "CardID": 27006,
-          "SidewaysCard": false,
-          "CustomDeck": {
-            "270": {
-              "FaceURL": "http://i.imgur.com/ojeTCH4.png",
-              "BackURL": "http://i.imgur.com/cSOEsxD.jpg",
-              "NumWidth": 10,
-              "NumHeight": 7,
-              "BackIsHidden": false,
-              "UniqueBack": false
-            }
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "GUID": "765444"
-        }
-      ],
-      "GUID": "976ace"
-    },
-    {
-      "Name": "Notecard",
-      "Transform": {
-        "posX": 34.4167976,
-        "posY": 1.11749721,
-        "posZ": -16.5096512,
-        "rotX": 4.908643E-05,
-        "rotY": -0.00324721774,
-        "rotZ": 7.52693768E-06,
-        "scaleX": 2.25,
-        "scaleY": 2.25,
-        "scaleZ": 2.25
-      },
-      "Nickname": "[b]STRAY CARDS[/b]",
-      "Description": "Sice we don't have models/dials ported to TTS for these, feel free to use them with made-up dial sets and placeholder ships",
-      "ColorDiffuse": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "GUID": "5c0963"
-    },
-    {
-      "Name": "Card",
-      "Transform": {
-        "posX": 34.07177,
-        "posY": 1.34670413,
-        "posZ": -18.6916351,
-        "rotX": -0.000123894322,
-        "rotY": 179.973129,
-        "rotZ": -0.000144640464,
-        "scaleX": 0.6428425,
-        "scaleY": 1.0,
-        "scaleZ": 0.6428425
-      },
-      "Nickname": "Concord Dawn Protector",
-      "Description": "",
-      "ColorDiffuse": {
-        "r": 0.713235259,
-        "g": 0.713235259,
-        "b": 0.713235259
-      },
-      "Locked": false,
-      "Grid": true,
-      "Snap": true,
-      "Autoraise": true,
-      "Sticky": true,
-      "Tooltip": true,
-      "CardID": 26905,
-      "SidewaysCard": false,
-      "CustomDeck": {
-        "269": {
-          "FaceURL": "http://i.imgur.com/MTabO2j.jpg",
-          "BackURL": "http://i.imgur.com/lWxnjTe.png",
-          "NumWidth": 10,
-          "NumHeight": 7,
-          "BackIsHidden": false,
-          "UniqueBack": true
-        }
-      },
-      "LuaScript": "",
-      "LuaScriptState": "",
-      "GUID": "f289ac"
-    },
-    {
       "Name": "Custom_Token",
       "Transform": {
         "posX": 11.847909,
-        "posY": 1.01,
+        "posY": 1.01000011,
         "posZ": -6.509872,
-        "rotX": -5.952387E-07,
+        "rotX": 2.47276785E-06,
         "rotY": 179.990448,
-        "rotZ": 6.94809842E-06,
+        "rotZ": -4.502306E-06,
         "scaleX": 0.8062451,
         "scaleY": 1.0,
         "scaleZ": 0.8062451
