@@ -14430,6 +14430,240 @@
           "LuaScript": "",
           "LuaScriptState": "",
           "GUID": "5661b0"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "scaleX": 0.625,
+            "scaleY": 0.625,
+            "scaleZ": 0.625
+          },
+          "Nickname": "Fenn Rau",
+          "Description": "",
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CustomMesh": {
+            "MeshURL": "http://paste.ee/r/GmKW8",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "https://paste.ee/r/htLo3",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.8745098,
+                "g": 0.8117647,
+                "b": 0.745098054
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 3.0,
+              "FresnelStrength": 0.1
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e2b693"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "scaleX": 0.625,
+            "scaleY": 0.625,
+            "scaleZ": 0.625
+          },
+          "Nickname": "Old Teroch",
+          "Description": "",
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CustomMesh": {
+            "MeshURL": "http://paste.ee/r/GmKW8",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "https://paste.ee/r/htLo3",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.8745098,
+                "g": 0.8117647,
+                "b": 0.745098054
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 3.0,
+              "FresnelStrength": 0.1
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4fef04"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "scaleX": 0.625,
+            "scaleY": 0.625,
+            "scaleZ": 0.625
+          },
+          "Nickname": "Kad Solus",
+          "Description": "",
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CustomMesh": {
+            "MeshURL": "http://paste.ee/r/GmKW8",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "https://paste.ee/r/htLo3",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.8745098,
+                "g": 0.8117647,
+                "b": 0.745098054
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 3.0,
+              "FresnelStrength": 0.1
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "02457d"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "scaleX": 0.625,
+            "scaleY": 0.625,
+            "scaleZ": 0.625
+          },
+          "Nickname": "Concord Dawn Ace",
+          "Description": "",
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CustomMesh": {
+            "MeshURL": "http://paste.ee/r/GmKW8",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "https://paste.ee/r/htLo3",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.8745098,
+                "g": 0.8117647,
+                "b": 0.745098054
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 3.0,
+              "FresnelStrength": 0.1
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "184274"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "scaleX": 0.625,
+            "scaleY": 0.625,
+            "scaleZ": 0.625
+          },
+          "Nickname": "Concord Dawn Veteran",
+          "Description": "",
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CustomMesh": {
+            "MeshURL": "http://paste.ee/r/GmKW8",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "https://paste.ee/r/htLo3",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.8745098,
+                "g": 0.8117647,
+                "b": 0.745098054
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 3.0,
+              "FresnelStrength": 0.1
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "e405df"
+        },
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "scaleX": 0.625,
+            "scaleY": 0.625,
+            "scaleZ": 0.625
+          },
+          "Nickname": "Zealous Recuit",
+          "Description": "",
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CustomMesh": {
+            "MeshURL": "http://paste.ee/r/GmKW8",
+            "DiffuseURL": "",
+            "NormalURL": "",
+            "ColliderURL": "https://paste.ee/r/htLo3",
+            "Convex": true,
+            "MaterialIndex": 1,
+            "TypeIndex": 1,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 0.8745098,
+                "g": 0.8117647,
+                "b": 0.745098054
+              },
+              "SpecularIntensity": 0.0,
+              "SpecularSharpness": 3.0,
+              "FresnelStrength": 0.1
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "4ccb38"
         }
       ],
       "GUID": "ba6740"
