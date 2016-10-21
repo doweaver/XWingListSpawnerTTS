@@ -1,7 +1,7 @@
 {
   "SaveName": "X-Wing Automatic List Spawner (now with auto layout dials!)",
   "GameMode": "XW squad assembly",
-  "Date": "10/18/2016 12:49:39 PM",
+  "Date": "10/20/2016 10:40:10 PM",
   "Table": "Table_Custom",
   "TableURL": "http://i.imgur.com/I73OWYX.jpg",
   "Sky": "Sky_Cathedral",
@@ -133,7 +133,7 @@
           "posX": 3.2946748E-06,
           "posY": 3.29311228,
           "posZ": 34.4527626,
-          "rotX": 5.26658077E-08,
+          "rotX": 5.26658148E-08,
           "rotY": 179.800049,
           "rotZ": 1.52585159E-07,
           "scaleX": 15.3268814,
@@ -2595,9 +2595,9 @@
         "posX": -31.25,
         "posY": 1.11750007,
         "posZ": 6.249999,
-        "rotX": -5.39011147E-08,
+        "rotX": -8.554287E-08,
         "rotY": 359.984863,
-        "rotZ": 4.0658108E-07,
+        "rotZ": 4.08113863E-07,
         "scaleX": 2.25,
         "scaleY": 2.25,
         "scaleZ": 2.25
@@ -2625,9 +2625,9 @@
         "posX": 33.000164,
         "posY": 1.15250015,
         "posZ": 18.9998379,
-        "rotX": 4.14971538E-07,
-        "rotY": 0.02859184,
-        "rotZ": 8.810224E-08,
+        "rotX": 2.2550654E-07,
+        "rotY": 0.02861262,
+        "rotZ": 2.626856E-07,
         "scaleX": 2.75,
         "scaleY": 2.75,
         "scaleZ": 2.75
@@ -2653,11 +2653,11 @@
       "Name": "Notecard",
       "Transform": {
         "posX": -31.25,
-        "posY": 1.15250015,
+        "posY": 1.15249991,
         "posZ": 18.7500248,
-        "rotX": -9.42028962E-08,
-        "rotY": 0.00118696317,
-        "rotZ": -7.54819268E-07,
+        "rotX": 4.08862775E-08,
+        "rotY": 0.00118696515,
+        "rotZ": -7.64508741E-07,
         "scaleX": 2.75,
         "scaleY": 2.75,
         "scaleZ": 2.75
@@ -2683,11 +2683,11 @@
       "Name": "Notecard",
       "Transform": {
         "posX": 33.0717354,
-        "posY": 1.14899981,
+        "posY": 1.14899993,
         "posZ": 4.24302626,
-        "rotX": -4.210094E-09,
+        "rotX": -1.32189424E-08,
         "rotY": 359.9932,
-        "rotZ": 2.6933364E-07,
+        "rotZ": -9.537159E-07,
         "scaleX": 2.69999862,
         "scaleY": 2.69999862,
         "scaleZ": 2.69999862
@@ -2715,9 +2715,9 @@
         "posX": 0.358159184,
         "posY": 1.21899974,
         "posZ": 14.278532,
-        "rotX": -9.422676E-07,
-        "rotY": 0.004474112,
-        "rotZ": 3.13343023E-08,
+        "rotX": -9.943121E-07,
+        "rotY": 0.0044741137,
+        "rotZ": 2.92845623E-08,
         "scaleX": 3.69999671,
         "scaleY": 3.69999671,
         "scaleZ": 3.69999671
@@ -2745,9 +2745,9 @@
         "posX": -6.217065,
         "posY": 0.8489794,
         "posZ": -8.167667,
-        "rotX": -5.54953E-06,
-        "rotY": 180.001129,
-        "rotZ": 2.31732258E-07,
+        "rotX": -5.976414E-06,
+        "rotY": 180.00116,
+        "rotZ": -1.70147118E-07,
         "scaleX": 0.6000003,
         "scaleY": 0.6000003,
         "scaleZ": 0.6000003
@@ -2757,7 +2757,7 @@
       "ColorDiffuse": {
         "r": 0.9490196,
         "g": 0.0156862754,
-        "b": 0.125486553
+        "b": 0.1254865
       },
       "Locked": false,
       "Grid": true,
@@ -13377,11 +13377,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -8.611714,
-        "posY": 0.7749656,
+        "posY": 0.774965942,
         "posZ": -8.263242,
-        "rotX": 1.06800584E-11,
+        "rotX": 1.93432284E-10,
         "rotY": 179.997955,
-        "rotZ": 5.986421E-07,
+        "rotZ": 1.08422582E-05,
         "scaleX": 1.0,
         "scaleY": 1.0,
         "scaleZ": 1.0
@@ -13391,7 +13391,7 @@
       "ColorDiffuse": {
         "r": 0.9490196,
         "g": 0.0156862754,
-        "b": 0.125486553
+        "b": 0.1254865
       },
       "Locked": false,
       "Grid": true,
@@ -13896,7 +13896,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -14232,7 +14232,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -14358,7 +14358,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -15072,7 +15072,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -15156,7 +15156,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -15282,7 +15282,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -15954,7 +15954,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -17046,7 +17046,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -17088,7 +17088,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -17256,7 +17256,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -17550,7 +17550,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -17718,7 +17718,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -17886,7 +17886,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -18264,7 +18264,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -18726,7 +18726,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -19482,7 +19482,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -19902,7 +19902,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -20574,7 +20574,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -21540,7 +21540,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -21792,7 +21792,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -21960,7 +21960,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -23084,7 +23084,7 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "212": {
-              "FaceURL": "http://i.imgur.com/mNSQb9j.jpg",
+              "FaceURL": "http://i.imgur.com/j40tJu0.jpg",
               "BackURL": "https://cf.geekdo-images.com/images/pic1634616_md.png",
               "NumWidth": 10,
               "NumHeight": 7,
@@ -23861,11 +23861,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -11.217062,
-        "posY": 0.8536052,
-        "posZ": -8.167711,
-        "rotX": 1.49410034E-05,
-        "rotY": 180.0011,
-        "rotZ": 3.61367233E-06,
+        "posY": 0.8536053,
+        "posZ": -8.167712,
+        "rotX": -5.54953658E-06,
+        "rotY": 180.001129,
+        "rotZ": 8.17034163E-07,
         "scaleX": 0.5750004,
         "scaleY": 0.5750004,
         "scaleZ": 0.5750004
@@ -23875,7 +23875,7 @@
       "ColorDiffuse": {
         "r": 0.9490196,
         "g": 0.0156862754,
-        "b": 0.125486553
+        "b": 0.1254865
       },
       "Locked": false,
       "Grid": true,
@@ -32841,11 +32841,11 @@
       "Name": "Bag",
       "Transform": {
         "posX": -8.743177,
-        "posY": 0.8536052,
+        "posY": 0.8536053,
         "posZ": -5.66899157,
-        "rotX": -4.69333054E-06,
+        "rotX": 7.682056E-06,
         "rotY": 179.983429,
-        "rotZ": 1.67593225E-05,
+        "rotZ": -1.31795732E-05,
         "scaleX": 0.5750004,
         "scaleY": 0.5750004,
         "scaleZ": 0.5750004
@@ -32855,7 +32855,7 @@
       "ColorDiffuse": {
         "r": 0.9490196,
         "g": 0.0156862754,
-        "b": 0.125486553
+        "b": 0.1254865
       },
       "Locked": false,
       "Grid": true,
@@ -32868,6 +32868,48 @@
       "LuaScript": "",
       "LuaScriptState": "",
       "ContainedObjects": [
+        {
+          "Name": "Card",
+          "Transform": {
+            "posX": -6.330747,
+            "posY": 1.04171371,
+            "posZ": 0.7776082,
+            "rotX": -2.21128948E-06,
+            "rotY": 179.999161,
+            "rotZ": 7.174553E-06,
+            "scaleX": 1.0,
+            "scaleY": 1.0,
+            "scaleZ": 1.0
+          },
+          "Nickname": "G-1A StarFighter Refcard",
+          "Description": "",
+          "ColorDiffuse": {
+            "r": 0.713235259,
+            "g": 0.713235259,
+            "b": 0.713235259
+          },
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "CardID": 27403,
+          "SidewaysCard": false,
+          "CustomDeck": {
+            "274": {
+              "FaceURL": "http://i.imgur.com/sV6H8Bt.png",
+              "BackURL": "http://i.imgur.com/arbr6bl.png",
+              "NumWidth": 4,
+              "NumHeight": 2,
+              "BackIsHidden": false,
+              "UniqueBack": false
+            }
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "GUID": "ba8b9e"
+        },
         {
           "Name": "Card",
           "Transform": {
@@ -63081,48 +63123,6 @@
         {
           "Name": "Card",
           "Transform": {
-            "posX": -9.735147,
-            "posY": 2.188653,
-            "posZ": -4.553531,
-            "rotX": 356.8981,
-            "rotY": 179.962814,
-            "rotZ": 1.29646313,
-            "scaleX": 1.0,
-            "scaleY": 1.0,
-            "scaleZ": 1.0
-          },
-          "Nickname": "G-1A Starfighter Refcard",
-          "Description": "",
-          "ColorDiffuse": {
-            "r": 0.713235259,
-            "g": 0.713235259,
-            "b": 0.713235259
-          },
-          "Locked": false,
-          "Grid": true,
-          "Snap": true,
-          "Autoraise": true,
-          "Sticky": true,
-          "Tooltip": true,
-          "CardID": 27403,
-          "SidewaysCard": false,
-          "CustomDeck": {
-            "274": {
-              "FaceURL": "http://i.imgur.com/sV6H8Bt.png",
-              "BackURL": "http://i.imgur.com/arbr6bl.png",
-              "NumWidth": 4,
-              "NumHeight": 2,
-              "BackIsHidden": false,
-              "UniqueBack": false
-            }
-          },
-          "LuaScript": "",
-          "LuaScriptState": "",
-          "GUID": "ba8b9e"
-        },
-        {
-          "Name": "Card",
-          "Transform": {
             "posX": -12.5047846,
             "posY": 2.19631243,
             "posZ": -5.06614971,
@@ -67731,9 +67731,9 @@
         "posX": 12.4557333,
         "posY": 1.01000023,
         "posZ": -6.68443871,
-        "rotX": -3.427799E-06,
-        "rotY": 179.99028,
-        "rotZ": -4.75445677E-06,
+        "rotX": 4.343966E-07,
+        "rotY": 179.990265,
+        "rotZ": -3.941926E-06,
         "scaleX": 0.8062451,
         "scaleY": 1.0,
         "scaleZ": 0.8062451
